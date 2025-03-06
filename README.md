@@ -2,7 +2,7 @@
 
 Este é o site institucional da Nexus Imobiliária, desenvolvido utilizando WordPress para oferecer uma experiência moderna, funcional e responsiva. O site apresenta informações sobre serviços, imóveis para venda e locação, além de facilitar o contato com a equipe especializada.
 
-🔗 **Acessar o site:** [Nexus Imobiliária](https://gabrielfranca-dev.github.io/Nexus)
+🔗 **Acessar o site:** [Nexus Imobiliária](https://nexus-page.vercel.app/)
 
 ## 📌 Características
 - Design responsivo, garantindo compatibilidade com diferentes dispositivos.
